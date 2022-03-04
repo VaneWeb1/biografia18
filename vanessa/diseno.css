@@ -1,0 +1,39 @@
+div#general{
+    margin:auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+    background-color: rgb(252, 217, 182) ;
+}
+
+h1{
+    color: rgb(18, 16, 19);
+    text-align: center;
+}
+div#apartado{
+    margin:auto;
+    margin-top: 50px;
+    width: 800px;
+    height: 650px;
+    background-color: rgb(235, 229, 179);
+}
+
+h3{
+    color: rgb(0, 0, 0);
+}
+
+div#plato{
+    margin:auto;
+    margin-top: 50px;
+    width: 700px;
+    height: 750px;
+    background-color: rgb(3, 1, 1);
+    text-align-last: justify;
+}
+
+s
+
+h4{
+    color: bisque;
+    text-align: centers;
+}
